@@ -1,0 +1,17 @@
+#title
+{
+    color:whitesmoke;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body 
+{
+    background-color:darkolivegreen;
+}
+
+#label_div
+{
+    background-color: whitesmoke;
+    padding: 10px;
+    border-color: black;
+}
